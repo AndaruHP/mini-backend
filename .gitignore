@@ -1,2 +1,5 @@
-.idea
+**/.idea
 mini-backend.iml
+**/target/
+package-lock.json
+**/node_modules/
